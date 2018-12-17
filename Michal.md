@@ -1,15 +1,13 @@
--Rafał 
-
-
-
 -Michał 
 TODO 
 
 
 NOW
-  - klasa DBConn 
-  - klsa obsługi DB
+  - checkboxy w rejestracji 
   
 DONE
+  - klasa DBConn 
+  - klsa obsługi DB
+  - moduł rejestracji
 
 PROBLEMS
