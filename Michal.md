@@ -4,6 +4,7 @@ TODO
 
 NOW
   - checkboxy w rejestracji 
+  - inducement module
   
 DONE
   - klasa DBConn 
